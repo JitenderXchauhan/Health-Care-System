@@ -1,3 +1,4 @@
 This project introduces a comprehensive Healthcare Diagnosis System integrating predictive models for four major health conditions: heart disease, lung cancer, Parkinson’s disease, and diabetes. The objective of this system is to enhance diagnostic accuracy and facilitate early detection, thereby improving patient outcomes and reducing healthcare costs.
 The models are developed using supervised learning algorithms and trained on publicly available medical datasets. Each model analyzes patient-specific parameters such as symptoms, lab results, and demographic data to predict the likelihood of the respective disease. Preprocessing techniques were applied to ensure data consistency, handle missing values, and optimize feature selection.
 
+![UI](https://github.com/user-attachments/assets/59e04204-6c77-4f51-8a33-e119f739cefb)
